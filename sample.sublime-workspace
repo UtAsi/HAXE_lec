@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"devDependencies"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Main.hx",
+			"settings":
+			{
+				"buffer_size": 1522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bin/main.js",
+			"settings":
+			{
+				"buffer_size": 1514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build.hxml",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 584,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Haxe/Support/Hxml.sublime-build",
+	"command_palette":
+	{
+		"height": 65.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"grun",
+				"Build: grunt browserify build"
+			],
+			[
+				"grunt",
+				"Build: grunt browserify build"
+			],
+			[
+				"g",
+				"Build: grunt browserify build"
+			],
+			[
+				"gur",
+				"Build: grunt browserify build"
+			],
+			[
+				"gru",
+				"Build: grunt browserify build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"gunr",
+				"Build: grunt broserify build"
+			],
+			[
+				"",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tomoko/Documents/develop/haxe/001/Main.hx.tmp",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/User/grunt.sublime-build",
+		"/C/Users/tomoko/Documents/develop/browserify/index.html",
+		"/C/Users/tomoko/Documents/develop/browserify/main.js",
+		"/C/Users/tomoko/Documents/Takashi/WORK/br/gallery.js",
+		"/C/Users/tomoko/Documents/develop/browserify/lib/foo.js",
+		"/C/Users/tomoko/Documents/develop/browserify/_output/build.js",
+		"/C/Users/tomoko/Documents/develop/browserify/package.json",
+		"/C/Users/tomoko/Documents/develop/browserify/Gruntfile.js",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/GameButton.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/PlayerControllView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/TextFieldView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/Simulator2DView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/SimBallView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/model/GraphicItemModel.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/model/GraphicItemCollection.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/model/ContentsModel.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/load/GraphicLoadExtention.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/util/CsvLoader.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/util/ObserverBase.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/util/StyleSheetUtl.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/util/XMLLoader.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/CustomEvent.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/BlankView1.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/BlankView2.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/BottomControllerView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/CircleChartView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/LocationView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/MovieView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/MainApp.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/MovingDistanceView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/PhysicalView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/Simulator2DnaviButton.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/Simulator2DNavi.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/RoundRectView.as",
+		"/C/Users/tomoko/Documents/Takashi/WORK/mobile_object/src/classes/view/PointButton.as",
+		"/C/Users/tomoko/Desktop/grunt.sublime-build",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Nodejs/package.json",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Nodejs/package-metadata.json",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-build",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Nodejs/tools/default_build.js",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Nodejs/tools/doc_builder.js",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/tomoko/Documents/develop/browserify/build.js",
+		"/C/Users/tomoko/Documents/develop/browserify/lib/bar/baz.js",
+		"/C/Users/tomoko/Documents/develop/browserify/min_js",
+		"/C/Users/tomoko/Documents/develop/browserify/_min/build.min.js",
+		"/C/Users/tomoko/Documents/develop/Gruntfile.js",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/tomoko/Documents/develop/browserify/libs/foo.js",
+		"/C/Users/tomoko/Documents/develop/test.js",
+		"/C/Users/tomoko/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"async"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Main.hx",
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								901,
+								901
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"haxe-build-id": 0,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bin/main.js",
+					"settings":
+					{
+						"buffer_size": 1514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build.hxml",
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"haxe-build-id": 0,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Haxe/Hxml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 344.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
