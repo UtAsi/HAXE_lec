@@ -55,4 +55,8 @@ class Main{
         title.alpha = 0.5;
 
     }
+
+    private function hoge():Void {
+    
+    }
 }
